@@ -1,4 +1,4 @@
-# 1. Use Google Identity for Authentication
+# 2. Use Google Identity for Authentication
 Date: 2022-07-01
 
 ## Status

@@ -1,4 +1,4 @@
-# 1. Use Google Kubernetes Engine
+# 3. Use Network Load Balancer
 Date: 2022-07-04
 
 ## Status
