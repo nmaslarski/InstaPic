@@ -11,3 +11,5 @@ This repository contains:
 1. System architecture - We will keep an overview of the architecture structured following the [C4 model](https://c4model.com/)
 
 1. Design decisions - We will keep a record of the architectural decisions under the `decisions` folder, following the format [described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+
+1. POC - A Proof Of Concept implementation for real-time updating of the feed
